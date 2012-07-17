@@ -1,3 +1,8 @@
+HOW TO INSTALL
+--------------
+To install run ``pip install kyu_ar_kowd_jenereytor`` or ``easy_install kyu_ar_kowd_jenereytor``.
+
+
 SAMPLE CODE
 ------------
 ::
