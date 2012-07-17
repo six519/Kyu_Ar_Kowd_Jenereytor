@@ -3,6 +3,9 @@ import urllib
 import re
 from exceptions import *
 
+__version__ = "1.0"
+__author__ = "Ferdinand E. Silva"
+
 class Jenereytor(object):
     
     def __init__(self):
